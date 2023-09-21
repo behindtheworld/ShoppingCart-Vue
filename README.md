@@ -41,7 +41,7 @@ This project was generated with [Vue CLI](https://github.com/vuejs/vue-cli) vers
 
 ```
 6. Run the server `npm run serve`
-
+              
 ## Screenshots:
 
 ### Main Page:
